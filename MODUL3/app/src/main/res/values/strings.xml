@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MODUL3</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_shopee">Shopee</string>
+
+    <string-array name="data_name">
+        <item>BOSTANTEN [Marsya Bag]</item>
+        <item>BOSTANTEN [LYN Bag]</item>
+        <item>BOSTANTEN [Reigny Bag]</item>
+        <item>BOSTANTEN [Madeline Bag]</item>
+        <item>BOSTANTEN [Totebag]</item>
+        <item>BOSTANTEN [Mini Cendy Bag]</item>
+        <item>BOSTANTEN [Amora Bag]</item>
+        <item>MOSSDOOM [Gradien Hand Bag]</item>
+        <item>MOSSDOOM [Lysmare Bag]</item>
+        <item>MOSSDOOM [Delphine Bag]</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/marsya_bag</item>
+        <item>@drawable/lyn_bag</item>
+        <item>@drawable/reigny_bag</item>
+        <item>@drawable/madeline_bag</item>
+        <item>@drawable/tote_bag</item>
+        <item>@drawable/mini_cendy_bag</item>
+        <item>@drawable/amora_bag</item>
+        <item>@drawable/gradien_bag</item>
+        <item>@drawable/lysmare_bag</item>
+        <item>@drawable/delphine_bag</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://id.shp.ee/ixmk3vP</item>
+        <item>https://id.shp.ee/56fWCro</item>
+        <item>https://id.shp.ee/957MHuZ</item>
+        <item>https://id.shp.ee/7ARV68N</item>
+        <item>https://id.shp.ee/quuhB8b</item>
+        <item>https://id.shp.ee/RPVhVds</item>
+        <item>https://id.shp.ee/vKZm8c9</item>
+        <item>https://id.shp.ee/6tzCzpz</item>
+        <item>https://id.shp.ee/t3osSMq</item>
+        <item>https://id.shp.ee/GaVtJQ1</item>
+    </string-array>
+
+    <string-array name="data_harga">
+        <item>Rp179.999</item>
+        <item>Rp159.999</item>
+        <item>Rp189.999</item>
+        <item>Rp179.999</item>
+        <item>Rp169.999</item>
+        <item>Rp159.999</item>
+        <item>Rp189.999</item>
+        <item>Rp249.000</item>
+        <item>Rp189.000</item>
+        <item>Rp199.000</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>(Bostanten) 100% asli. Selamat datang di toko Bostanten, di mana kami berusaha menyediakan produk yang memenuhi kebutuhan kualitas dan efisiensi pelanggan. Beli produk kami dengan mudah dari pusat perbelanjaan Shopee karena kami menjamin keaslian 100%. Bahan terbuat dari kulit PU dengan pilihan warna Coklat, Hitam, Off Putih, Biru dan Coklat, Aprikot dan Hitam, Kuning Biru Pink, Off Putih dan Coklat, serta Off Putih dan Hitam. Berukuran 19.5 cm (Lebar) × 11.5 cm (Tinggi) × 7 cm (Tebal), dengan berat sekitar 0.35 kg. Tas ini memiliki ruang penyimpanan besar, satu kantong, serta tali belakang yang dapat disesuaikan antara 98–122 cm. Cocok digunakan untuk sekolah, kantor, perjalanan, perjalanan bisnis, belanja, pertemuan, makan, kencan, dan acara sosial seperti pesta atau konser. Target penggunanya adalah wanita, gadis, pekerja kantoran, pelajar, dan remaja.</item>
+        <item>(Bostanten) 100% Asli. Selamat datang di toko Bostanten, di mana kami akan berusaha untuk menyediakan produk yang memenuhi kebutuhan kualitas dan efisiensi kepada pelanggan. Beli produk kami dengan mudah dari pusat perbelanjaan Shopee karena kami menjamin keaslian 100%. Tas ini terbuat dari bahan kulit PU dengan pilihan warna Coklat, Off Putih, Hitam, dan Aprikot Coklat. Memiliki dimensi 29 cm (Lebar) × 14 cm (Tinggi) × 9 cm (Tebal), dan berat sekitar 0.34 kg. Bagian dalam terdiri dari ruang penyimpanan besar, satu tas masukan dalam, dan satu tas zipper internal. Pegangan tas memiliki jarak sedang yaitu 31 cm. Sangat cocok digunakan untuk sekolah, kantor, pesta, dan perjalanan.</item>
+        <item>(Bostanten) 100% asli. Selamat datang di toko Bostanten, di mana kami akan berusaha untuk menyediakan produk yang memenuhi kebutuhan kualitas dan efisiensi kepada pelanggan. Beli produk kami dengan mudah dari pusat perbelanjaan Shopee karena kami menjamin keaslian 100%. Tas ini menggunakan bahan kulit PU dan tersedia dalam warna Off Putih, Warna Kamel, dan Hitam. Ukurannya adalah 20 cm (Lebar) × 16 cm (Tinggi) × 9 cm (Tebal), dengan berat 0.27 kg. Dilengkapi dengan ruang penyimpanan besar, tas masukan, dan sabuk bahu dengan tinggi tengah sekitar 92–112 cm yang dapat disesuaikan dan dilepas pasang. Pegangan tas berukuran sedang, yaitu 9 cm. Cocok untuk sekolah, kantor, pesta, maupun perjalanan.</item>
+        <item>(Bostanten) 100% asli. Selamat datang di toko Bostanten, di mana kami akan berusaha untuk menyediakan produk yang memenuhi kebutuhan kualitas dan efisiensi kepada pelanggan. Beli produk kami dengan mudah dari pusat perbelanjaan Shopee karena kami menjamin keaslian 100%. Tas ini terbuat dari bahan kulit PU dan tersedia dalam warna Off Putih, Warna Kamel, Hitam, Abu-abu, dan Coklat. Berukuran 28.5 cm (Lebar) × 21.5 cm (Tinggi) × 7 cm (Tebal), dengan berat 0.29 kg. Bagian dalam terdiri dari ruang penyimpanan besar, satu tas zipper belakang, dan satu saku masukan depan. Sabuk bahunya memiliki tinggi tengah sekitar 0–111 cm dan tidak dapat disesuaikan maupun dilepas. Tas ini cocok digunakan untuk sekolah, kantor, pesta, maupun perjalanan.</item>
+        <item>(Bostanten) 100% asli. Selamat datang di toko Bostanten, di mana kami akan berusaha untuk menyediakan produk yang memenuhi kebutuhan kualitas dan efisiensi kepada pelanggan. Beli produk kami dengan mudah dari pusat perbelanjaan Shopee karena kami menjamin keaslian 100%. Keserbagunaan, kepraktisan, elegan, dan gaya kedewasaan adalah inti keindahan dari tas ini. Bahan warna solid dan lekukan yang natural memberikan tampilan yang serbaguna serta memiliki plastisitas yang tepat untuk menonjolkan gaya dewasa wanita. Barang pegangan terpopuler di musim ini adalah tote bag—tas jinjing berkapasitas besar yang berkualitas baik dan terbuat dari bahan tahan air. Kapasitasnya sangat luar biasa; Anda bisa memasukkan laptop, buku teks, tablet, dan barang lainnya dengan mudah. Kepraktisannya sempurna dan sangat ramah bagi pelajar, pekerja kantoran, maupun ibu-ibu yang membutuhkan ruang ekstra. Tas ini terbuat dari bahan kulit PU dan tersedia dalam kombinasi warna Off Putih dan Coklat, Off Putih dan Pink, serta Off Putih dan Hijau. Berukuran 40 cm (Lebar) × 27 cm (Tinggi) × 12 cm (Tebal) dengan berat 0.50 kg. Dilengkapi ruang penyimpanan besar, kantong, dan kantong resleting, serta tali belakang sepanjang 64 cm. Tote bag ini bukan sekadar barang sederhana yang bisa dipakai kapan saja, tetapi juga mencerminkan sikap terhadap kehidupan. Cocok digunakan di sekolah, kantor, perjalanan, bisnis, belanja, pertemuan, makan, kencan, maupun acara sosial seperti pesta dan konser. Target penggunanya adalah wanita, gadis, pekerja kantoran, pelajar, dan remaja.</item>
+        <item>(Bostanten) 100% asli. Selamat datang di toko Bostanten, di mana kami akan berusaha untuk menyediakan produk yang memenuhi kebutuhan kualitas dan efisiensi kepada pelanggan. Beli produk kami dengan mudah dari pusat perbelanjaan Shopee karena kami menjamin keaslian 100%. Tas ini terbuat dari bahan kulit PU dan tersedia dalam berbagai warna, seperti Coklat, Off Putih, Hitam, Aprikot dan Coklat, Off Putih dan Coklat, serta Off Putih dan Hitam. Dengan dimensi 12 cm (Lebar) × 18.5 cm (Tinggi) × 6.5 cm (Tebal) dan berat 0.16 kg, tas ini memiliki ruang penyimpanan besar dan satu kantong tambahan. Dilengkapi dengan tali belakang sepanjang 132 cm, tas ini cocok digunakan di sekolah, kantor, perjalanan, perjalanan bisnis, belanja, pertemuan, makan, kencan, serta berbagai acara sosial seperti pesta dan konser. Target penggunanya ialah wanita, gadis, pekerja kantoran, pelajar, dan remaja.</item>
+        <item>(Bostanten) 100% asli. Selamat datang di toko Bostanten, di mana kami akan berusaha untuk menyediakan produk yang memenuhi kebutuhan kualitas dan efisiensi kepada pelanggan. Beli produk kami dengan mudah dari pusat perbelanjaan Shopee karena kami menjamin keaslian 100%. Tas ini terbuat dari bahan kulit PU dan tersedia dalam pilihan warna Off Putih, Hitam, Coklat, dan Aprikot. Dengan dimensi 22.5 cm (Lebar) × 26.5 cm (Tinggi) × 3.5 cm (Tebal) dan berat 0.28 kg, tas ini dilengkapi dengan ruang penyimpanan besar, satu kantong, dan satu kantong resleting. Tali belakangnya memiliki panjang antara 103–124 cm. Tas ini cocok digunakan untuk sekolah, kantor, perjalanan, perjalanan bisnis, belanja, pertemuan, makan, kencan, serta acara sosial seperti pesta dan konser. Target penggunanya ialah wanita, gadis, pekerja kantoran, pelajar, dan remaja.</item>
+        <item>Selamat datang di produk MOSSDOOM, dijamin keasliannya 100%! Tas ini terbuat dari bahan kulit PU. Dengan ukuran panjang 19.5 cm, lebar 8 cm, tinggi 16.5 cm, dan dengan berat 0.36 kg. Tersedia hanya warna Pink. Tas ini dilengkapi dengan satu saku penyimpanan besar, satu saku sisipan, satu saku beritsleting, dan tinggi pegangan tas tangan sebesar 7cm. Untuk tali bahu memiliki panjang antara 47.5-59cm (dapat disesuaikan). Semua gambar produk ini diambil dalam kehidupan nyata, jadi dijamin keaslinya.</item>
+        <item>Selamat datang di official MOSSDOOM store, 100% menjamin keaslian brand produk kami. Tas ini terbuat dari bahan kulit PU. Berukuran 20 cm (Panjang) x 8 cm (Lebar) x 14 cm (Tinggi) dan berat 0.36 kg. Tas ini tersedia dalam pilihan warna Blue, Light Pink, Pink, Brown, Beige White, Black. Tas ini dilengkapi dengan ruang penyimpanan besar, satu saku sisipan, satu saku beresleting, dan dengan tali bahu setinggi kira-kira 106-130cm (yang dapat disesuaikan, bisa dilepas pasang). Semua foto produk kami adalah foto asli, diambil dari store official. Jadi dijamin keasliannya.</item>
+        <item>Selamat datang di official MOSSDOOM store, 100% menjamin keaslian brand produk kami. Tas ini terbuat dari bahan kulit PU. Dengan ukuran 17 cm (Panjang) x 9 cm (Lebar) x 10 cm (Tinggi) dan berat 0.29 kg. Tersedia dengan beberapa pilhan warna Pink, Blue, Purple, Apricot, Beige White, Black. Tas ini memiliki struktur internal dengan saku penyimpanan besar, tinggi tali bahunya sekitar 110-121 cm (yang dapat disesuaikan dan bisa dilepas pasang). Semua foto produk kami adalah foto asli, diambil dari store official. Jadi dijamin keasliannya.</item>
+    </string-array>
+
+    <string name="label_nama">Nama</string>
+    <string name="label_harga">Harga:</string>
+
+    <string name="placeholder_nama">Nama Tas</string>
+    <string name="placeholder_harga">Harga Tas</string>
+</resources>
