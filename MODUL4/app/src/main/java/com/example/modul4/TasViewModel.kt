@@ -14,15 +14,12 @@ class TasViewModel : ViewModel() {
     private val _selectedTas = MutableStateFlow<ItemTas?>(null)
     val selectedTas: StateFlow<ItemTas?> = _selectedTas
 
-    // 🔥 Event navigasi satu-kali (tanpa replay)
     private val _navigateToDetail = MutableSharedFlow<Unit>()
     val navigateToDetail: SharedFlow<Unit> = _navigateToDetail
 
     fun selectTas(item: ItemTas?) {
         _selectedTas.value = item
         Log.d("TasViewModel", "Item dipilih: ${item?.nama}")
-
-        // Kirim event navigasi hanya jika item tidak null
         if (item != null) {
             viewModelScope.launch {
                 _navigateToDetail.emit(Unit)
