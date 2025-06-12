@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MODUL5</string>
+    <string name="label_harga">Harga</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_shopee">Shopee</string>
+</resources>
